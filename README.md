@@ -7,6 +7,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ammy194/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -28,4 +29,12 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ammy194/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ammy194/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->

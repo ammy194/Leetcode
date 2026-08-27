@@ -9,6 +9,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ammy194/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/ammy194/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/ammy194/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -49,4 +51,8 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/ammy194/Leetcode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->

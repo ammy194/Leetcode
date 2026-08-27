@@ -8,10 +8,12 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ammy194/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -28,13 +30,23 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ammy194/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ammy194/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

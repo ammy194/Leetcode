@@ -12,6 +12,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | [0189-rotate-array](https://github.com/ammy194/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ammy194/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ammy194/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ammy194/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +59,8 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/ammy194/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ammy194/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ammy194/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->

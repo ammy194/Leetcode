@@ -63,4 +63,12 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ammy194/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/ammy194/Leetcode/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/ammy194/Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->

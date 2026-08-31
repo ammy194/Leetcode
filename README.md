@@ -13,6 +13,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ammy194/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ammy194/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0704-binary-search](https://github.com/ammy194/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ammy194/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ammy194/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/ammy194/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

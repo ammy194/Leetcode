@@ -7,13 +7,27 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ammy194/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ammy194/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ammy194/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->

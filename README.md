@@ -9,6 +9,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ammy194/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ammy194/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |

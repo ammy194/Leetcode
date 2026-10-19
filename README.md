@@ -46,4 +46,8 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2235-add-two-integers](https://github.com/ammy194/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->

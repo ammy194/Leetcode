@@ -7,6 +7,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/ammy194/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ammy194/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -50,4 +51,8 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2235-add-two-integers](https://github.com/ammy194/Leetcode/tree/main/2235-add-two-integers/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/ammy194/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->

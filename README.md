@@ -8,6 +8,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ammy194/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/ammy194/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/ammy194/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -16,6 +17,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ammy194/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ammy194/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
@@ -35,6 +37,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ammy194/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer

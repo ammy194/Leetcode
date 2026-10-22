@@ -7,6 +7,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ammy194/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0118-pascals-triangle](https://github.com/ammy194/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -24,6 +25,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ammy194/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search

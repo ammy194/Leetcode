@@ -10,6 +10,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | [0001-two-sum](https://github.com/ammy194/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/ammy194/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ammy194/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/ammy194/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/ammy194/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/ammy194/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -32,6 +33,7 @@ in one place. I’ll keep adding problems as I solve them, while focusing on und
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ammy194/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/ammy194/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/ammy194/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ammy194/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
